@@ -1,9 +1,0 @@
-streamlit
-apify-client
-firecrawl-py
-google-generativeai
-gspread
-oauth2client
-apscheduler
-python-dotenv
-pandas
